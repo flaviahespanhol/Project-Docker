@@ -16,7 +16,7 @@ Neste projeto você irá:
 
 ## O que preciso saber para fazer o projeto?
 
-- [ ] Entender o que é um container;
+- [x] Entender o que é um container;
 - [ ] Entender o processo de criação de um container;
 - [ ] Entender o que é Dockerfile;
 - [ ] Entender o que é Docker Compose.
